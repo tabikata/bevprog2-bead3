@@ -17,7 +17,7 @@ void Kivalaszto::draw()
     {
         gout << color(255, 255, 255) << move_to(x, y+sy) << box(sx, meret*sy)
             << color(0, 0, 0)
-            << move_to(x+sx-10, y+sy+2) << box(8, (meret*sy)/(lehetosegek.size()-meret+1)-4);
+            << move_to(x+sx-10, y+sy+2) << box(8, (meret*sy)-4);
         for (int i=0; i<meret; i++)
         {
             gout << move_to(x, y+(i+1)*sy) << line(sx, 0)

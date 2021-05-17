@@ -12,13 +12,16 @@
 1621261808 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\widgets.hpp
 	"graphics.hpp"
 
-1621280945 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\main.cpp
+1621289758 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\main.cpp
 	"widgets.hpp"
 	"application.hpp"
 	"szambeallito.hpp"
+	"kivalaszto.hpp"
 	<array>
 	<functional>
 	<iostream>
+	<fstream>
+	<map>
 
 1621265274 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\widgets.cpp
 	"widgets.hpp"
@@ -36,7 +39,7 @@
 
 1621270009 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\jatekmester.hpp
 
-1621280362 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\kivalaszto.cpp
+1621287659 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\kivalaszto.cpp
 	"kivalaszto.hpp"
 
 1621280372 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\kivalaszto.hpp
