@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1621275004 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\application.cpp
+	"application.hpp"
+
+1621275004 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\application.hpp
+	"widgets.hpp"
+	<vector>
+
+1488260528 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\include\graphics.hpp
+	<string>
+
+1621261808 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\widgets.hpp
+	"graphics.hpp"
+
+1621280945 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\main.cpp
+	"widgets.hpp"
+	"application.hpp"
+	"szambeallito.hpp"
+	<array>
+	<functional>
+	<iostream>
+
+1621265274 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\widgets.cpp
+	"widgets.hpp"
+	"application.hpp"
+
+1621275992 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\szambeallito.hpp
+	"widgets.hpp"
+
+1621275992 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\szambeallito.cpp
+	"szambeallito.hpp"
+	<sstream>
+
+1621270009 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\jatekmester.cpp
+	"jatekmester.hpp"
+
+1621270009 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\jatekmester.hpp
+
+1621280362 source:d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\kivalaszto.cpp
+	"kivalaszto.hpp"
+
+1621280372 d:\kata\ppke_itk\mi_bsc_4.felev\bevprog2\bead3\3.beadando_eredeti\kivalaszto.hpp
+	"widgets.hpp"
+	<vector>
+

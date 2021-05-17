@@ -2,3 +2,5 @@
 *.ttf
 *.a
 *.la
+bin/
+obj/
